@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Patient-Reported Outcomes Calculator for Rotator Cuff Repair** is an interactive R/Shiny implementation of a multivariable prognostic model for estimating **1-year Penn Shoulder Score (PSS)** outcomes following primary arthroscopic rotator cuff repair (ARCR).
+**Patient-Reported Outcomes Calculator for Rotator Cuff Repair** is an interactive R/Shiny implementation of a multivariable prognostic model for estimating **1-year Penn Shoulder Score (PSS)** outcomes following primary arthroscopic rotator cuff repair (RCR).
 
 The application transforms a patient's preoperative demographic, clinical, disease-specific, and surgical characteristics into individualized predictions of:
 
@@ -318,6 +318,20 @@ https://github.com/jiny-ccf/Predicting1YearPROMSAfterRotatorCuffRepair
 The calculator is part of a broader effort to translate clinical prediction models into accessible, interactive tools for patient-reported outcomes following shoulder surgery.
 
 The corresponding publication reports the model development, predictor importance, sensitivity analyses, and clinical context in detail.
+
+---
+
+## Authors
+
+Developed at Cleveland Clinic as part of the development and deployment of an
+interactive clinical prediction tool for total shoulder arthroplasty outcomes.
+
+**Primary developer:** Yuxuan Jin  
+**Affiliation:** Cleveland Clinic
+
+For software questions, please open an issue in this repository.
+For questions about the clinical study or prediction model, please refer to the
+original publication.
 
 ---
 
